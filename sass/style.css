@@ -1,0 +1,33 @@
+.img1 {
+  text-align: center;
+  margin-top: 50px;
+}
+.img1 img {
+  width: 300px;
+  height: 300px;
+  border: grey 5px solid;
+  border-radius: 50%;
+}
+.img1 img:hover {
+  border: rgb(0, 0, 0) 5px solid;
+}
+
+#article1 {
+  border-radius: 50px;
+  background: #e0e0e0;
+  box-shadow: 21px 21px 42px #bebebe, -21px -21px 42px #ffffff;
+  width: 80%;
+  height: 100%;
+  margin: 10%;
+  padding: 5%;
+}
+
+#article2 {
+  border-radius: 50px;
+  background: #e0e0e0;
+  box-shadow: 21px 21px 42px #bebebe, -21px -21px 42px #ffffff;
+  width: 80%;
+  height: 100%;
+  margin: 10%;
+  padding: 5%;
+}/*# sourceMappingURL=style.css.map */
